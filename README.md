@@ -6,6 +6,7 @@ Authors
 Jana Elfeky
 Adham Tamer Gouda
 Khadeejah Iraky
+
 Abstract
 The paper investigates the ordered field of the hyperreals, emphasizing its role as a bridge between first-order logic and real analysis. Key contributions of this work include:
 
@@ -20,6 +21,7 @@ First-Order Logic in Hyperreal Construction: Logical foundations of the hyperrea
 Infinite and Infinitesimal Quantities: Understanding and applying these concepts in real analysis.
 Redefining Convergence and Continuity: Novel interpretations made possible by the hyperreal framework.
 Interdisciplinary Connections: Theoretical bridges between logic and analysis.
+
 Purpose
 This project aims to:
 
