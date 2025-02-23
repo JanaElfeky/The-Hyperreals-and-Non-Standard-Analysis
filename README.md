@@ -5,9 +5,11 @@ This repository contains the paper "The Hyperreals and Non-Standard Analysis", d
 
 Authors:
 
-Jana Elfeky
-Adham Tamer Gouda
-Khadeejah Iraky
+Jana Elfeky,
+
+Adham Tamer Gouda,
+
+Khadeejah Iraky.
 
 Abstract:
 
